@@ -1,0 +1,26 @@
+{
+  "mainMenu": {
+    "state": "Dans le menu principal",
+    "largeImageText": "Menu principal"
+  },
+  "loadingGame": {
+    "state": "Chargement en cours",
+    "largeImageText": "Minecraft",
+    "details": "%d mods chargé(s)"
+  },
+  "inGame": {
+    "multiPlayer": {
+      "largeImageText": {
+        "unknown": "Serveur inconnu",
+        "ip": "IP : %s"
+      },
+      "state": "Joue avec des amis \u003c3",
+      "details": "IGN : %s"
+    },
+    "singlePlayer": {
+      "state": "Joue tout seul...",
+      "largeImageText": "Monde : %s",
+      "details": "IGN : %s"
+    }
+  }
+}

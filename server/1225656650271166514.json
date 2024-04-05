@@ -1,0 +1,12 @@
+[{
+      "uid": "localhost",
+      "key": "server-localhost",
+      "name": "Serveur Local"
+    },
+    {
+        "uid": "play.mc-voltz.ovh",
+        "key": "mc-voltz",
+        "name": "MC-Voltz"
+      }
+  ]
+  
